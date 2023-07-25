@@ -1,2 +1,2 @@
 # feriass
-Repositóriocom a,
+Repositóriocom das ferias
